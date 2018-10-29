@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/ngx-dfp-video.umd.js",
+  "module": "../fesm5/ngx-dfp-video.js",
+  "es2015": "../fesm2015/ngx-dfp-video.js",
+  "esm5": "../esm5/video/ngx-dfp-video.js",
+  "esm2015": "../esm2015/video/ngx-dfp-video.js",
+  "fesm5": "../fesm5/ngx-dfp-video.js",
+  "fesm2015": "../fesm2015/ngx-dfp-video.js",
+  "typings": "ngx-dfp-video.d.ts",
+  "metadata": "ngx-dfp-video.metadata.json",
+  "sideEffects": false,
+  "name": "ngx-dfp/video"
+}

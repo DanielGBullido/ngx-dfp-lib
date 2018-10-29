@@ -1,0 +1,67 @@
+{
+  "_from": "ngx-dfp",
+  "_id": "ngx-dfp@1.6.0",
+  "_inBundle": false,
+  "_integrity": "sha512-AeaZvsA2gEDN/EbCHSY6Mxlt1TcKqS81fOP9KK/uZI4s0takZ4wOdank1KiMYxlNcF1vfauMkbzHsRBubHzAEw==",
+  "_location": "/ngx-dfp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-dfp",
+    "name": "ngx-dfp",
+    "escapedName": "ngx-dfp",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-dfp/-/ngx-dfp-1.6.0.tgz",
+  "_shasum": "fe11df29573ca08e60ed447c3dde5543631f5155",
+  "_spec": "ngx-dfp",
+  "_where": "/Users/danielgbullido/Proyectos/secture/fantasy-game",
+  "bugs": {
+    "url": "https://github.com/atwwei/ngx-dfp/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "Semantic DoubleClick for Publishers (DFP by Google) integration with Angular 6",
+  "es2015": "fesm2015/ngx-dfp.js",
+  "esm2015": "esm2015/ngx-dfp.js",
+  "esm5": "esm5/ngx-dfp.js",
+  "fesm2015": "fesm2015/ngx-dfp.js",
+  "fesm5": "fesm5/ngx-dfp.js",
+  "homepage": "https://github.com/atwwei/ngx-dfp#readme",
+  "keywords": [
+    "angular",
+    "doubleclick",
+    "google",
+    "ads",
+    "dfp"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-dfp.umd.js",
+  "metadata": "ngx-dfp.metadata.json",
+  "module": "fesm5/ngx-dfp.js",
+  "name": "ngx-dfp",
+  "peerDependencies": {
+    "@alugha/ima": "^1.1.2",
+    "@angular/core": "^6.0.0",
+    "@angular/common": "^6.0.0",
+    "@angular/router": "^6.0.0",
+    "rxjs": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atwwei/ngx-dfp.git"
+  },
+  "sideEffects": false,
+  "typings": "ngx-dfp.d.ts",
+  "version": "1.6.0"
+}
