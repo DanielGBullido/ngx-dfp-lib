@@ -18,12 +18,12 @@ export declare class DfpService {
     private loadGPT;
     private loaded;
     constructor(platformId: Object, idleLoad: IdleService, config: DfpConfig, scriptInjector: ScriptInjectorService);
-    private dfpConfig();
-    private addSafeFrameConfig(pubads);
-    private addTargeting(pubads);
-    private addLocation(pubads);
-    private addPPID(pubads);
-    private setup();
+    private dfpConfig;
+    private addSafeFrameConfig;
+    private addTargeting;
+    private addLocation;
+    private addPPID;
+    private setup;
     hasLoaded(): boolean;
     defineTask(task: any): void;
 }

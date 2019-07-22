@@ -35,9 +35,9 @@ export declare class DfpAdDirective implements OnInit, AfterViewInit, OnDestroy 
     ngOnInit(): void;
     ngAfterViewInit(): void;
     ngOnDestroy(): void;
-    private setResponsiveMapping(slot);
-    private defineSlot();
-    private refreshContent();
+    private setResponsiveMapping;
+    private defineSlot;
+    private refreshContent;
     checkValid(): void;
     readonly isHidden: any;
     getState(): Readonly<{
