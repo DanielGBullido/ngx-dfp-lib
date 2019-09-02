@@ -20,10 +20,10 @@
   "homepage": "https://github.com/atwwei/ngx-dfp#readme",
   "peerDependencies": {
     "@alugha/ima": "^1.1.2",
-    "@angular/core": "^6.0.0",
-    "@angular/common": "^6.0.0",
-    "@angular/router": "^6.0.0",
-    "rxjs": "^6.0.0"
+    "@angular/core": "^8.2.4",
+    "@angular/common": "^8.2.4",
+    "@angular/router": "^8.2.4",
+    "rxjs": "^6.3.3"
   },
   "main": "bundles/ngx-dfp.umd.js",
   "module": "fesm5/ngx-dfp.js",
