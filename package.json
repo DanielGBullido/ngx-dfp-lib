@@ -1,10 +1,10 @@
 {
   "name": "ngx-dfp",
-  "version": "1.6.2",
+  "version": "1.7.2",
   "description": "Semantic DoubleClick for Publishers (DFP by Google) integration with Angular 6",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atwwei/ngx-dfp.git"
+    "url": "git+https://github.com/DanielGBullido/ngx-dfp.git"
   },
   "keywords": [
     "angular",
