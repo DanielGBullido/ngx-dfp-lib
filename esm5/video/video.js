@@ -1,0 +1,7 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { DfpVideoDirective } from './directive/dfp-video.directive';
+export { DfpVideoModule } from './dfp-video.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidmlkZW8uanMiLCJzb3VyY2VSb290Ijoibmc6Ly9uZ3gtZGZwL3ZpZGVvLyIsInNvdXJjZXMiOlsidmlkZW8udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLE9BQU8sRUFBRSxpQkFBaUIsRUFBRSxNQUFNLGlDQUFpQyxDQUFDO0FBRXBFLE9BQU8sRUFBRSxjQUFjLEVBQUUsTUFBTSxvQkFBb0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCB7IERmcFZpZGVvRGlyZWN0aXZlIH0gZnJvbSAnLi9kaXJlY3RpdmUvZGZwLXZpZGVvLmRpcmVjdGl2ZSc7XG5cbmV4cG9ydCB7IERmcFZpZGVvTW9kdWxlIH0gZnJvbSAnLi9kZnAtdmlkZW8ubW9kdWxlJztcbiJdfQ==
